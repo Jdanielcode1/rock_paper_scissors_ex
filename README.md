@@ -1,1 +1,3 @@
-# rock_paper_scissors_ex
+# Realtime Rock Paper Scissors in Expo
+
+
